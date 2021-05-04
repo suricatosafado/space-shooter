@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ShipHit.wav-1febbc9da73b7a7d88ffce984f705bc5.sample"
+
+[deps]
+
+source_file="res://Audio/ShipHit.wav"
+dest_files=[ "res://.import/ShipHit.wav-1febbc9da73b7a7d88ffce984f705bc5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
